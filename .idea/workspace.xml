@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="811a985c-b4ee-4000-9103-3b49683a4a9e" name="Changes" comment="">
+    <list default="true" id="811a985c-b4ee-4000-9103-3b49683a4a9e" name="Changes" comment="Реалізує завдання">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Files/SampleCodeFile/SampleCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Files/SampleFiles/SampleCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zhanbek&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zhanbek/CyberSys_JavaAdvanced_Homework_03_Task_04.git&quot;,
+    &quot;accountId&quot;: &quot;b1682482-575a-4361-b7ea-6b6955d41c70&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="39g78LpQiWvMpjKiS465QySV9FK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +51,7 @@
     "Application.SampleCode.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -49,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CyberSys\Java\Projects\Java_Advanced\HomeWorks\CyberSys_JavaAdvanced_Homework_03\CyberSys_JavaAdvanced_Homework_03_Task_04\src\Files" />
       <recent name="D:\CyberSys\Java\Projects\Java_Advanced\HomeWorks\CyberSys_JavaAdvanced_Homework_03\CyberSys_JavaAdvanced_Homework_03_Task_04\src\Files\NewFile" />
     </key>
   </component>
@@ -67,11 +84,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771105717975</updated>
-      <workItem from="1771105718901" duration="3100000" />
+      <workItem from="1771105718901" duration="3328000" />
+      <workItem from="1771141029364" duration="371000" />
     </task>
+    <task id="LOCAL-00001" summary="Реалізує завдання">
+      <option name="closed" value="true" />
+      <created>1771108942653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771108942653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Реалізує завдання" />
+    <option name="LAST_COMMIT_MESSAGE" value="Реалізує завдання" />
   </component>
 </project>
